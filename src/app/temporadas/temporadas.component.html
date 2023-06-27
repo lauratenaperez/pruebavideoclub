@@ -1,0 +1,9 @@
+<div class="caja" *ngIf="temporada">
+    <div class="contenedor">
+        <h2 class="titulo">Temporadas</h2>
+        <div *ngFor="let temporada of temporada">
+            <div class="temporada">{{temporada}}</div>
+        </div>
+        <button class="boton" (click)="volver()">Volver</button>  <!--navega a DetallesComponent-->
+    </div>
+</div>

@@ -1,0 +1,50 @@
+.tituloCategoria {
+    text-align: center;
+    width: 300px;
+    background-color: crimson;
+    color: white;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.boton {
+    margin-left: 50%;
+    transform: translateX(-50%);
+    width: 100px;
+}
+
+.video {
+    display: flex;
+    padding: 7px;
+    background-color: bisque;
+    margin: 20px;
+    font-family: sans-serif;
+}
+
+.datos {
+    flex-direction: column;
+    padding: 10px;
+}
+
+.portada {
+    width: 150px;
+    height: 220px;
+    padding: 10px;
+    color: black;
+    cursor: pointer;
+}
+
+.titulo {
+    font-weight: bold;
+}
+
+.cora {
+    width: 30px;
+    height: 25px;
+    margin-top: 18px;
+    cursor: pointer;
+}
+
+.fav {
+    background-color: red;
+}

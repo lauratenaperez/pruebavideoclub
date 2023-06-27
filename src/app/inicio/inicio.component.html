@@ -1,0 +1,57 @@
+<div>
+    <div *ngFor="let categoria of videoclub;index as i">
+        <!--CATEGORIA[i]-->
+        <!--mostrar ambos titulos de categorias-->
+        <h2 class="tituloCategoria">{{categoria.categoria | uppercase}}</h2>
+        <!--Muestro valor categoria 0|1 = Peliculas|Series -->
+        <div *ngFor="let video of categoria.videos.slice(0,2);index as f">
+            <!--Muestro 2 videos de categoria 0 y 1-->
+            <!--VIDEO[f]-->
+            <div class="video">
+                <div (click)="detalles(i,f)"><img class="portada" src="{{video.portada}}"
+                        title="Haga click para más información"></div>
+                <!--Recojo categoria i= (0|1 /peliculas o series) y video f= (0-10|0-7 /posición videos)-->
+                <div class="datos">
+                    <div class="titulo">{{video.titulo}}</div>
+                    <div>{{video.anio}}</div>
+                    <div *ngIf="video.cartelera==true">
+                        EN CARTELERA
+                    </div>
+                    <div *ngIf="video.cartelera==false">
+                        PROXIMAMENTE EN CINES
+                    </div>
+
+                    <div (click)="setFavorito(i,f)">
+                        <img [ngClass]="{'fav': video.favorito}" class="cora" src="assets/imagenes/corazon.png"
+                            title="Haga click para añadir o quitar de favoritos">
+                        <!--Foto corazón se le da una clase u otra con distinto scss-->
+                        <!--pointer-puntero sobre clase cora-->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="boton" (click)="mostrarMas(i)">Mostrar más</button>
+    </div>
+    <!--cierro bucle for-->
+    <div class="caja">
+        <h1 class="muestra">Fotografías de cine</h1>
+
+        <div *ngIf="foto" class="aleatorio">
+            <h2>Mostrar sugerencia:</h2>
+            <img src="{{foto}}" class="imgaleatorio">
+        </div>
+        <div><button (click)="generaCartel()" class="fotos">Ver sugerencias</button></div>
+    </div>
+
+
+    <!--<div class="carteles">
+            <button (click)="generaCartel()" class="boton">Fotografías cine</button>
+            <div *ngIf="foto">
+                <div *ngFor="let film of videoclub;index as a">
+                    <div *ngFor="let fotos of film;index as b">
+                        src="{{fotos}}"
+                    </div>
+                </div>
+            </div>
+        </div>-->
+</div>

@@ -1,0 +1,235 @@
+{
+    "videoclub": [{
+        "categoria": "peliculas",
+        "videos": [{
+                "titulo": "La vida es bella",
+                "anio": "1998",
+                "portada": "https://www.ecartelera.com/carteles/2600/2611/001.jpg",
+
+                "pais": "Italia",
+                "genero": "Drama, Comedia, Romance",
+                "duracion": "117min",
+                "sinopsis": "Unos años antes de que comience la Segunda Guerra Mundial, un joven llamado Guido llega a un pequeño pueblo de la Toscana italiana con la intención de abrir una librería. Allí conocerá a Dora, la prometida del fascista Ferruccio, y desde el momento que la ve, se enamora perdidamente de ella. Conquistarla no es tarea fácil, pero finalmente consigue hacerlo. Ambos se casan y juntos tienen un hijo, Giosue. Con la llegada de la guerra y el nazismo, los judíos como ellos tienen las cosas muy difíciles para salir adelante. Y más difíciles todavía se ponen cuando Guido y Giosue son mandados a un campo de concentración. Dora, al enterarse, se embarga también en un tren para estar con ellos. Una vez allí, Guido hará todo lo posible para que su hijo crea que todo es un juego y no vea el campo de concentración como lo que realmente es.",
+                "cartelera": true,
+                "favorito": false
+            },
+            {
+                "titulo": "Pulp Fiction",
+                "anio": "1994",
+                "portada": "https://www.ecartelera.com/carteles/200/286/001.jpg",
+
+                "pais": "EEUU",
+                "genero": "Thriller, Acción, Crimen",
+                "duracion": "154 min",
+                "sinopsis": "Narrada de una forma no lineal, la historia principal cuenta la historia de Vincent Vega (John Travolta) y Jules Winnfield (Samuel L. Jackson), son dos asesinos a sueldo que tienen como misión recuperar un misterioso maletín. Vincent le confiesa a Jules que Marsellus Wallace (Ving Rhames), su jefe, le ha pedido que cuide de su mujer Mia (Uma Thurman) mientras él está fuera de la ciudad, pero deberá tener cuidado ya que se rumorea que Marsellus mató a un hombre por tocarle los pies a Mia. Por otro lado, Butch Coolidge (Bruce Willis), boxeador, es pagado por Marsellus para perder a propósito en su próxima pelea, pero termina matando sin querer a su contrincante. Lo que provoca que él y sus secuaces le persigan, haciendo que trate de huir de la ciudad. Y por último, la situación del restaurante en la que una mujer y su marido tratan de atracarlo. La película está escrita y dirigida por Quentin Tarantino, y es considerada una de las obras cumbre del cine moderno. Ganó la Palma de Oro en el prestigioso festival de Cannes en 1994 y un Óscar por mejor guion original.",
+                "cartelera": false,
+                "favorito": false
+            },
+            {
+                "titulo": "Cadena Perpetua",
+                "anio": "1994",
+                "portada": "https://www.ecartelera.com/carteles/5600/5676/003.jpg",
+
+                "pais": "EEUU",
+                "genero": "Crimen, Drama",
+                "duracion": "142 min",
+                "sinopsis": "Andy Dufresne es un banquero condenado a cadena perpetua por el asesinato de su mujer y el amante de ésta. Poco a poco se gana el respeto de los demás reclusos y la amistad de Red, que dirige el mercado negro de la prisión. Andy adquiere ciertos privilegios por resolver problemas fiscales a los guardias así como al alcaide, para quien organiza una extensa red de corrupciones políticas. Andy se entera por otro recluso de que el verdadero asesino de su mujer está encerrado en otro penal, por lo que pide que se reabra su caso. El alcaide ordena entonces asesinar a este nuevo recluso para evitar la marcha de Andy y que salgan a la luz sus sucios negocios. A partir de ese momento Andy pierde todos sus privilegios, por lo que decide jugarse el todo por el todo y aprovecha los servicios que el alcaide todavía requiere de él para recuperar su honor y su libertad.",
+                "cartelera": false,
+                "favorito": false
+            },
+            {
+                "titulo": "Interstellar",
+                "anio": "2014",
+                "portada": "https://www.ecartelera.com/carteles/3800/3851/003.jpg",
+
+                "pais": "EE.UU.",
+                "genero": "Ciencia ficción, Aventura, Misterio",
+                "duracion": "169 min",
+                "sinopsis": "Un grupo de astronautas se lanza al espacio para buscar un futuro para la raza humana que parece perdido en 'Interstellar'. Ahora que la Tierra se acerca poco a poco al fin de su sus días debido a una más que preocupante escasez de comida por el mal estado de las tierras. Cooper deberá elegir entre quedarse con sus hijos o liderar esta expedición, que aprovechará los descubrimientos en astrofísica para abandonar el sistema solar y encontrar un lugar libre de contaminación, donde poder empezar una nueva vida para la raza humana. Noveno largometraje del aclamado director y guionista Christopher Nolan (trilogía de 'El Caballero Oscuro') su guion está basado en las teorías del físico Kip Thorne",
+                "cartelera": true,
+                "favorito": false
+            },
+            {
+                "titulo": "Avatar",
+                "anio": "2009",
+                "portada": "https://www.ecartelera.com/carteles/1700/1762/002.jpg",
+
+                "pais": "EEUU",
+                "genero": "Ciencia ficción, Acción, Aventura",
+                "duracion": "150 min",
+                "sinopsis": "Entramos en el nuevo mundo a través de los ojos de Jake Sully, un ex-Marine confinado en una silla de ruedas. A pesar de su cuerpo tullido, todavía es un guerrero de corazón. Jake ha sido reclutado para viajar a Pandora, donde las corporaciones están extrayendo un mineral extraño que es la clave para resolver los problemas de la crisis energética de la Tierra. Al ser tóxica la atmósfera de Pandora, ellos han creado el programa Avatar, en el cual los humanos 'conductores' tienen sus conciencias unidas a un avatar, un cuerpo biológico controlado de forma remota que puede sobrevivir en el aire letal. Estos avatars están creados genéticamente a partir de ADN humano mezclado con ADN de los nativos de Pandora los Navi",
+                "cartelera": false,
+                "favorito": false
+
+            },
+            {
+                "titulo": "Intocable",
+                "anio": "2011",
+                "portada": "https://www.ecartelera.com/carteles/4600/4667/001.jpg",
+                "pais": "Francia",
+                "genero": "Comedia, Drama",
+                "duracion": "112 minutos",
+                "sinopsis": "Comedia francesa basada en hechos reales. Cuenta la historia de dos personas Driss, de origen senegalés, vive en un barrio obrero de París, siempre ha tenido que buscarse la vida para salir adelante y para mantener a sus hermanos, no siempre por el camino legal. Driss todo lo que quiere es que le sellen la carta del paro para poder seguir cobrándolo. Por otro lado tenemos a Phillippe, un hombre tetrapléjico y rico. Muy culto y reflexivo. Phillipe necesita un ayudante para su día a día. En la entrevista que realiza, no le convence ningún candidato, excepto Driss, quien ni siquiera quiere el empleo. A partir del momento que Driss comienza a trabajar para Phillipe, se crea un vínculo entre ellos. Driss enseñará a Phillipe que la vida es algo que puede vivirse con alegría a pesar de la mala suerte que hayas tenido en ella.",
+                "cartelera": true,
+                "favorito": false
+            },
+            {
+                "titulo": "Siete Almas",
+                "anio": "2008",
+                "portada": "https://www.ecartelera.com/carteles/2900/2904/001.jpg",
+                "pais": "EEUU",
+                "genero": "Drama",
+                "duracion": "123 minutos",
+                "sinopsis": "Will Smith encarna a Ben, un agente del fisco americano que está deprimido y atormentado por los remordimientos de conciencia sobre errores de su pasado. Ben intentará compensar estos errores ayudando a los demás, pero cuando encuentra a Emily (Rosario Dawson), una mujer hermosa con una enfermedad de corazón, se enamora de ella, complicando sus proyectos.",
+                "cartelera": true,
+                "favorito": false
+            },
+            {
+                "titulo": "La proposición",
+                "anio": "2009",
+                "portada": "https://www.ecartelera.com/carteles/3300/3349/001.jpg",
+                "pais": "EEUU",
+                "genero": "Comedia, Drama, Romance",
+                "duracion": "108 minutos",
+                "sinopsis": "Margaret es una poderosa editora que repentinamente se enfrenta a ser deportada a Canadá, su país de origen. Para evitarlo, la astuta ejecutiva declara que está comprometida con su asistente Andrew, al que lleva torturando durante años. Andrew acepta participar en la farsa pero con algunas condiciones. La 'pareja' se dirige entonces a Alaska a conocer la peculiar familia de él, y la ejecutiva de ciudad, acostumbrada a tener todo bajo control, se encuentra inmersa en situaciones surrealistas que escapan a cualquier lógica conocida. Con planes de boda en camino y un agente de inmigración tras sus pasos, Margaret y Andrew se comprometen a seguir con el plan previsto pese a las consecuencias.",
+                "cartelera": false,
+                "favorito": false
+            },
+            {
+                "titulo": "101 Dalmatas",
+                "anio": "1996",
+                "portada": "https://www.ecartelera.com/carteles/5700/5790/001.jpg",
+                "pais": "EE.UU.",
+                "genero": "Comedia, Familiar",
+                "duracion": "108 minutos",
+                "sinopsis": "Tras un encuentro fortuito, Roger y Anita se enamoran. Cada uno de ellos tiene un perro dálmata y los perros caen enamorados también. Anita es diseñadora en la casa de modas De Vil, dirigida por la despiadada y malvada Cruella De Vil,una mala persona cuya máxima ilusión es tener un abrigo de piel de dálmata. Una vez que Roger y Anita se casan, los perros tienen cachorros y Cruella se presenta en la casa dispuesta a comprarlos.",
+                "cartelera": false,
+                "favorito": false
+            },
+            {
+                "titulo": "Iron Man",
+                "anio": "2008",
+                "portada": "https://www.ecartelera.com/carteles/1700/1773/002.jpg",
+                "pais": "EEUU",
+                "genero": "Acción, Aventura, Drama",
+                "duracion": "100 minutos",
+                "sinopsis": "El estilo de vida despreocupado de Tony cambia de manera radical cuando su convoy sufre un ataque, tras una prueba de armamento que supervisa personalmente, y se ve convertido en prisionero de un grupo de insurgentes. Herido por un fragmento de metralla, que se aloja cerca de su corazón ya debilitado y pone en peligro su vida, Tony se ve forzado a crear un arma devastadora para Raza, el misterioso cabecilla de los insurgentes. Tony ignora las exigencias de sus captores y utiliza su intelecto y su ingenio para crear una armadura que lo mantenga con vida y le permita escapar de su cautiverio.",
+                "cartelera": false,
+                "favorito": false
+            },
+            {
+                "titulo": "Invencible",
+                "anio": "2014",
+                "portada": "https://www.ecartelera.com/carteles/6700/6736/003.jpg",
+                "pais": "EEUU",
+                "genero": "Guerra, Biografía, Drama",
+                "duracion": "137 minutos",
+                "sinopsis": "Narra la increíble vida del piloto y héroe de guerra Louis Zamperini, que junto a dos tripulantes sobrevivió 47 días en una balsa después de que su bombardero se estrellara. Posteriormente, fueron capturados por la marina japonesa y mandados a un campo de prisioneros durante la Segunda Guerra Mundial.",
+                "cartelera": false,
+                "favorito": false
+            }
+        ]
+    }, {
+        "categoria": "series",
+        "videos": [{
+                "titulo": "Friends",
+                "anio": "1994-2004",
+                "portada": "https://www.ecartelera.com/carteles-series/000/69/008.jpg",
+                "favorito": false,
+
+                "pais": " EEUU",
+                "genero": "Comedia",
+                "temporadas": "10 temporadas",
+                "sinopsis": "'Friends', comedia ambientada en Manhattan, sigue la vida de seis amigos: Rachel (Jennifer Aniston), Ross (David Schwimmer), Mónica (Courteney Cox), Chandler (Matthew Perry), Phoebe (Lisa Kudrow) y Joey (Matt LeBlanc), que luchan por sobrevivir a la vida diaria mientras toman café, en este caso, en el mítico Central Perk, su lugar favorito en el que reunirse. Ross y Mónica son hermanos, él está enamorado de Rachel, así que ahora que ella ha dejado plantado a su futuro marido y se ha mudado al piso de Mónica, ve una nueva oportunidad de conquistarla. De hecho, a lo largo de las diez temporadas veremos como las idas y venidas de esta pareja no desaparecen, aunque esto no quita protagonismo a los demás personajes. Como Mónica y Chandler que comienzan su romance en secreto pero finalmente deciden vivir juntos, enfrente del piso de Joey, que parece no enterarse de nada. El sueño de este hilarante miembro de la panda que va un poco por libre, es convertirse en un actor reconocido. Joey comparte con Phoebe eso de ir un poco a su rollo y es que el personaje al que da vida Kudrow va y viene sin demasiadas ataduras aportando un toque humorístico que no pasa desapercibido. 'Friends' se ha convertido en todo un fenómeno, siendo una de las series más queridas y apreciadas a nivel mundial.",
+                "temporada": ["Temporada 1","Temporada 2","Temporada 3","Temporada 4","Temporada 5","Temporada 6","Temporada 7","Temporada 8","Temporada 9","Temporada 10"]
+            },
+            {
+                "titulo": "El príncipe de Bel-Air",
+                "anio": "1990-1996",
+                "portada": "https://www.ecartelera.com/carteles-series/300/312/006.jpg",
+                "favorito": false,
+
+                "pais": " EEUU",
+                "genero": "Comedia",
+                "temporadas": "6 temporadas",
+                "sinopsis": "'William 'Will' Smith es un joven que vive con su familia en un barrio de Filadelfia que tras tener un altercado con una banda se muda a vivir al lujoso y poderoso barrio de Bel-Air, ubicado en California, obligado por su madre. En Bel-Air residen sus ricos tíos y Will tendrá que acostumbrarse a vivir de esa forma tan diferente a la suya. Will vive con su tío Philip Banks, un hombre estricto que trabaja como juez y debe cuidar su reputación, su tía Vivian, una ama de casa y mujer acorde con el barrio en el que vive, sus cuatro primos, Hillary, una joven materialista y poco avispada, Carlton, el típico niño pijo caprichoso, los pequeños Ashley y Nicky, además de Geoffrey, el mayordomo de la familia. Durante los años Will tendrá que cambiar sus modales y su estilo de vida para adecuarse a los ciudadanos de Bel-Air.",
+                "temporada": ["Temporada 1","Temporada 2","Temporada 3","Temporada 4","Temporada 5","Temporada 6"]
+            },
+            {
+                "titulo": "Fisica o quimica",
+                "anio": "2008-2011",
+                "portada": "https://www.ecartelera.com/carteles-series/300/334/001.jpg",
+                "favorito": false,
+
+                "pais": "España",
+                "genero": "Romance",
+                "temporadas": "7 temporadas",
+                "sinopsis": "'Cuatro profesores empiezan a trabajar en el instituto Zurbarán en el que serán testigos de los problemas que tienen los jóvenes y a los que deberán ayudar para que estos puedan superarlos. 'Física o química' sigue el día a día de los profesores del centro y de un grupo de alumnos, entre los que se encuentran los populares y los marginados. Cabano, Gorka, Ruth, Yan, Cova, Fer, Paula o Yoli son algunos de los jóvenes que experimentarán nuevas aventuras que les cambiarán la vida. Pero no solo los alumnos serán quienes tengan estas nuevas vivencias sino que los adultos también conocerán nuevos ámbitos de su vida. Alcohol, drogas, sexo, amor, embarazos prematuros, desamor son los temas principales en los que se centra la exitosa serie que se mantuvo en antena durante siete temporadas.",
+                "temporada": ["Temporada 1","Temporada 2","Temporada 3","Temporada 4","Temporada 5","Temporada 6","Temporada 7"]
+            },
+            {
+                "titulo": "Breaking Bad",
+                "anio": "2008-2013",
+                "portada": "https://www.ecartelera.com/carteles-series/000/62/001.jpg",
+                "favorito": false,
+
+                "pais": "EEUU",
+                "genero": "Drama, Comedia Negra",
+                "temporadas": "5 temporadas",
+                "sinopsis": "Walter White es un profesor de química al que un día le diagnostican cáncer de pulmón. Un día, acompañando a su cuñado Hank en un redada antidroga, ve cómo consigue escapar Jesse Pinkman, un antiguo alumno suyo. Entonces, para tratar de garantizar el futuro económico de su familia y tratarse el cáncer, se alía con Pinkman para cocinar y distribuir la metanfetamina más pura que se ha visto. Este nuevo estilo de vida cambia radicalmente a Walter, quien tendrá que enfrentarse a una violenta vida que hasta ahora no conocía. La serie fue creada en 2008 por Vince Giligan y duró cinco temporadas entre 2008 y 2013. El reparto lo formaban Bryan Cranston, Aaron Paul, Anna Gunn, Dean Norris, Betsy Brandt y R.J. Mitte.",
+                "temporada": ["Temporada 1","Temporada 2","Temporada 3","Temporada 4","Temporada 5"]
+
+            },
+            {
+                "titulo": "Sense 8",
+                "anio": "2015-2017",
+                "portada": "https://www.ecartelera.com/carteles-series/000/67/001.jpg",
+                "favorito": false,
+
+                "pais": "EEUU",
+                "genero": "Drama, Ciencia Ficción",
+                "temporadas": "2 temporadas",
+                "sinopsis": "'Sense8' se centra en ocho personajes que a pesar de vivir separados y cada uno en una ciudad diferente, experimentan una misma visión que los conecta entre ellos mentalmente. Gracias a esta conexión son capaces de conocer los secretos de los otros siete personajes, además de verse y conversar entre ellos como si estuvieran en el mismo lugar y viviesen en la misma ciudad. Estas ocho personas deberán hacer frente y adaptarse a esta nueva situación que les acompaña mientras tratan de averiguar que ocurrió para poseer estas habilidades. Deberán investigar también que impacto tiene esto para el futuro de la humanidad y escapar de una organización que les persigue para capturarlos y experimentar con ellos.",
+                "temporada": ["Temporada 1","Temporada 2"]
+            },
+            {
+                "titulo": "Perdidos",
+                "anio": "2004-2010",
+                "portada": "https://www.ecartelera.com/carteles-series/000/16/006.jpg",
+                "favorito": false,
+
+                "temporadas": "6 temporadas",
+                "pais": "EEUU",
+                "genero": "Thriller",
+                "sinopsis": "Tras sufrir un accidente aéreo, un grupo de supervivientes del vuelo 815 de Oceanic Airlines se ve obligado a convivir en una isla desierta del Pacífico. Pronto comienzan a desencadenarse una serie de sucesos extraños que les hacen sospechar unos de otros y pensar que no están solos en la isla. Al mismo tiempo, en esa lucha por la supervivencia, empezarán a mostrar lo mejor y lo peor de sí mismos dando pie a conflictos. Todos y cada uno de ellos tienen un pasado que poco a poco irán desvelando conforme tengan que aliarse para luchar contra el entorno. Nadie es quien dice ser y todo puede pasar en una isla que parece estar gobernada por la casualidad y por elementos fantásticos que escapan al alcance y comprensión de sus nuevos habitantes. Entre los protagonistas de esta ficción creada por J.J. Abrams, Jeffrey Lieber y Damon Lindelof encontramos a Josh Holloway, Evangeline Lilly, Matthew Fox, Dominic Monaghan, Ian Somerhalder o Emilie de Ravin.",
+                "temporada": ["Temporada 1","Temporada 2","Temporada 3","Temporada 4","Temporada 5","Temporada 6"]
+            },
+            {
+                "titulo": "Vis a vis",
+                "anio": "2015-2019",
+                "portada": "https://www.ecartelera.com/carteles-series/100/114/002.jpg",
+                "favorito": false,
+
+                "temporadas": "3 temporadas",
+                "pais": "España",
+                "genero": "Thriller",
+                "sinopsis": "Thriller carcelario producido por Globomedia y emitido en España por Antena 3. Cruz del Sur es una prisión de mujeres española donde convive un heterogéneo grupo de reclusas. En medio de todo ese caos aparece de pronto Macarena, la protagonista, quien se ve con los huesos en la cárcel tras haber sido engañada por su amante en temas de dinero. Una vez entre rejas tendrá que vérselas con despiadadas asesinas, un doctor que abusa de su poder en prisión y una alcaide que parece no querer ver lo que sucede en su centro. Todos ellos le harán la vida imposible a Maca, por lo que pronto aprenderá a compartir sus días con las únicas personas en las que puede confiar, sus compañeras de celda. La ficción está protagonizada por Maggie Civantos, Berta Vázquez, Alba Flores, Najwa Nimri e Inma Cuevas, entre otras. Fue cancelada tras su segunda temporada y más tarde traída de vuelta gracias a FOX.",
+                "temporada": ["Temporada 1","Temporada 2","Temporada 3"]
+            },
+            {
+                "titulo": "Shameless",
+                "anio": "2011",
+                "portada": "https://www.ecartelera.com/carteles-series/200/250/007.jpg",
+                "favorito": false,
+
+                "temporadas": "7 temporadas",
+                "pais": "EEUU",
+                "genero": "Drama",
+                "sinopsis": "'Shameless', dramedia norteamericana basada en una serie británica, se centra en la vida de los Gallagher, una familia un tanto atípica y peculiar que reside en uno de los barrios más bajos de Chicago. Frank (William H. Macy), es un padre soltero que no ejerce como figura paterna en absoluto. De hecho Frank es todo lo contrario al padre ideal que cualquiera quisiera tener: es desastroso, irresponsable y alcohólico. Así Fiona (Emmy Rossum), la hija mayor de Frank, ha tomado el papel de madre y es la encargada de cuidar, educar y vigilar a sus cinco inteligentes, independientes y salvajes hermanos (Ethan Cutkosky, Jeremy Allen White, Emma Kenney, Cameron Monaghan y Brenden Sims). Todos ellos se ven empujados a madurar antes de tiempo ante un difícil panorama que ahonda en las consecuencias del alcoholismo y explora toda clase de conflictos económicos, sociales y sentimentales. John Wells es el encargado de liderar esta adaptación aclamada por la critica que ha sido nominada en varias ocasiones tanto a los Globos de Oro como a los Premios Emmy.",
+                "temporada": ["Temporada 1","Temporada 2","Temporada 3","Temporada 4","Temporada 5","Temporada 6","Temporada 7","Temporada 8","Temporada 9","Temporada 10"]
+            }
+        ]
+    }
+
+]
+}

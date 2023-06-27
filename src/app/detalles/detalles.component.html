@@ -1,0 +1,26 @@
+<div>
+    <h2 (click)="verCategoria()" class="tituloCategoria" title="Mostrar todas las {{videoclub[idCategoria].categoria}}">
+        {{videoclub[idCategoria].categoria | uppercase}}</h2>
+    <!--TITULO PELICULAS o SERIES-->
+    <!-- Click con navegación a VideoclubComponent /lista peliculas-series -->
+
+    <div class="video">
+        <div><img class="portada" src="{{videoclub[idCategoria].videos[idVideo].portada}}"></div>
+        <div class="datos">
+            <div class="titulo" (click)="setFavorito()">
+                <!--Función click para marcar como favorito -TRUE|FALSE  /titulo + img-->
+                {{videoclub[idCategoria].videos[idVideo].titulo}}&nbsp;&nbsp;
+                <img [ngClass]="{'fav': videoclub[idCategoria].videos[idVideo].favorito}" class="cora"
+                    src="assets/imagenes/corazon.png" title="Haga click para añadir o quitar de favoritos"></div>
+            <div>{{videoclub[idCategoria].videos[idVideo].anio}}</div>
+            <div>Pais: {{videoclub[idCategoria].videos[idVideo].pais}}</div>
+            <div>Generos: {{videoclub[idCategoria].videos[idVideo].genero}}</div>
+            <div *ngIf="idCategoria == 1">Temporadas: {{videoclub[idCategoria].videos[idVideo].temporada.length}}</div>  <!--temporada.split(',').length-->
+            <br>
+            <div>Sinopsis:<br>{{videoclub[idCategoria].videos[idVideo].sinopsis}}</div>
+
+            <!--Muestro botón en caso de que categoria sea 1 = series-->
+            <button *ngIf="idCategoria == 1" (click)="verTemporadas()" class="boton">Ver temporadas</button>
+        </div>
+    </div>
+</div>

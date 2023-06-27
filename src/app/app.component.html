@@ -1,0 +1,11 @@
+<div *ngIf="videoclub">
+    <app-encabezado></app-encabezado>
+    <!--se visualiza de forma ESTÁTICA-->
+
+    <router-outlet></router-outlet>
+    <!--identifica si hay configurada alguna ruta y si es así muestra el componente indicado -->
+    <!-- COMPONENTES: inicio(cine y series), videoclub(cine o series) y detalles -->
+
+    <app-footer></app-footer>
+    <!--se visualiza de forma ESTÁTICA-->
+</div>
